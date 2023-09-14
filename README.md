@@ -1,6 +1,6 @@
 # Event Invitation
 
-<a href="https://youtube-clone-vue.netlify.app/">DEMO</a>
+<a href="https://event-invitation-react.netlify.app/">DEMO</a>
 
 You can use this code to send emails/texts. You can get people via API. If you have a large list of people you can use search.
 
